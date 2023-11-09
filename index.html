@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo/style.css">
+    <title>Par ou Ímpar</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Jogo Par ou Ímpar</h1>
+        <div class="game-container">
+            <div id="resultado" class="result"></div>
+            <div class="input-container">
+                <label for="escolha">Escolha par (P) ou ímpar (I): </label>
+                <input type="text" id="escolha" placeholder="P ou I">
+            </div>
+            <div class="input-container">
+                <label for="valor_jogador">Digite um valor entre 0 e 10: </label>
+                <input type="number" id="valor_jogador" min="0" max="10">
+            </div>
+            <button id="jogar">Jogar</button>
+        </div>
+        
+        <div id="computador" class="hidden">Número do Computador: <span id="numero_computador"></span></div>
+    
+        <p>Total de vitórias consecutivas: <span id="vitorias">0</span></p>
+    </div>
+    
+
+    <script src="script.js"></script>
+</body>
+</html>
+
