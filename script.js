@@ -20,7 +20,7 @@ function jogar() {
         return; // Sai da função se houver erro de validação
     }
     
-    const valor_c = Math.floor(Math.random() * 101);
+    const valor_c = Math.floor(Math.random() * 11);
 
     const resultadoDiv = document.getElementById('resultado');
     const computadorDiv = document.getElementById('computador');
