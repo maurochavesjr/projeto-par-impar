@@ -2,7 +2,7 @@
 
 <img src="print-tela-inicial.png" alt="Exemplo imagem">
 
-> Projeto de criado de forma autoral para testar meu aprendizado em JavaScript, HTML e CSS. O objetivo do projeto é de um jogo simples de par ou ímpar, em que o usuário escolhe qual opção deseja e insere um número, o programa gera um número aleatório e verifica se deu par ou ímpar.
+> Projeto criado de forma autoral para testar meu aprendizado em JavaScript, HTML e CSS. O objetivo do projeto é de um jogo simples de par ou ímpar, em que o usuário escolhe qual opção deseja e insere um número, o programa gera um número aleatório e verifica se deu par ou ímpar.
 
 ### Ajustes e melhorias
 
