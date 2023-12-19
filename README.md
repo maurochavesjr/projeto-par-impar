@@ -18,16 +18,16 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Um computador com um navegador instalado
 
-## ☕ Usando Projeto Adivinhação
+## ☕ Usando Projeto Par ou Ímpar
 
 Para jogar, siga estas etapas:
 
 - Acesse o seguinte link: https://maurochavesjr.github.io/projeto-par-impar/
 
 
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 Contribuindo para Projeto Par ou Ímpar
 
-Para contribuir com o Projeto Adivinhação, siga estas etapas:
+Para contribuir com o Projeto Par ou Ímpar, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
