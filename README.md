@@ -1,16 +1,16 @@
 # Projeto Par ou Ímpar
 
-<img src="Captura de tela 2023-10-20 195820.png" alt="Exemplo imagem">
+<img src="print-tela-inicial.png" alt="Exemplo imagem">
 
-> Projeto de criado de forma autoral para testar meu aprendizado em JavaScript, HTML e CSS. O objetivo do projeto é de um jogo simples de adivinhação, em que o usuário tem 5 chances de adivinhar o número aleatório entre 1 e 100.
+> Projeto de criado de forma autoral para testar meu aprendizado em JavaScript, HTML e CSS. O objetivo do projeto é de um jogo simples de par ou ímpar, em que o usuário escolhe qual opção deseja e insere um número, o programa gera um número aleatório e verifica se deu par ou ímpar.
 
 ### Ajustes e melhorias
 
 O projeto está em constante melhorias e aberto a críticas, elogios ou sugestões. As próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [ ] Melhoria no CSS
-- [ ] Acrescentar um contador de vitórias
-- [ ] Colocar níveis de dificuldade
+- [ ] Acrescentar um contador de vitórias do usuário
+- [ ] Acresencar um contador de vitórias do computador
 
 ## 💻 Pré-requisitos
 
@@ -22,7 +22,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para jogar, siga estas etapas:
 
-- Acesse o seguinte link: https://maurochavesjr.github.io/projeto-adivinhacao/
+- Acesse o seguinte link: https://maurochavesjr.github.io/projeto-par-impar/
 
 
 ## 📫 Contribuindo para <nome_do_projeto>
